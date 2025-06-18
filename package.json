@@ -15,7 +15,7 @@
     "devStart": "nodemon server.js"
   },
   "dependencies": {
-    "@quasar/extras": "^1.0.0",
+    "@quasar/extras": "^1.17.0",
     "axios": "^0.21.1",
     "compression": "^1.7.4",
     "connect-history-api-fallback": "^2.0.0",
@@ -59,7 +59,6 @@
   ],
   "engines": {
     "node": "18.17.0",
-    "npm": ">= 6.13.4",
-    "yarn": ">= 1.21.1"
+    "npm": ">= 6.13.4"
   }
 }
