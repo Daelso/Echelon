@@ -156,6 +156,12 @@ const linksList = [
     icon: "chat",
     link: "https://discord.com/invite/xy6zBQy",
   },
+  {
+    title: "Colonial Radio",
+    caption: "Open your ears!",
+    icon: "radio",
+    link: "https://maradio.live/public/colonial_radio",
+  },
 ];
 
 export default defineComponent({
